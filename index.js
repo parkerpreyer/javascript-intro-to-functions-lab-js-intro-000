@@ -20,7 +20,7 @@ function sayHiToGrandma(string) {
   let love = "I love you, too."
 
   if (string === lowercase) {
-    return "I can'\t hear you!"
+    return "I can't hear you!"
   } else if (string === uppercase) {
     return "YES INDEED!"
   } else if (string === love) {
